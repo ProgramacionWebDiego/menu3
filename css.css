@@ -1,0 +1,83 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(255, 154, 3);
+}
+li{
+    float: left;
+}
+nav .pepepepepepepepepepepepepepe{
+    text-align: center;
+}
+li a{
+    display: block;
+    color: aqua;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+a{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    color: rgb(250, 5, 5);
+    width: 120px;
+    text-align: center;
+}
+nava:hover{
+    background-color: aqua;
+}
+li a:hover{
+    background-color: black;
+}
+.submenu{
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: rgb(125, 17, 233); 
+}
+.mostrar-submenu:hover .submenu{
+    display: block;
+}
+footer div{
+    flex: 1;
+}
+footer{
+    background-color: aqua;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+}
+header{
+    background-color: aquamarine;
+}
+div .inicio{
+    background-color: rgb(253, 253, 253);
+}
+.inicio1 {
+    background: url(/p1.png);
+    padding: 100px;
+    margin: 10px;
+    text-align: center;
+    height: 400px;
+}
+#pepepepepe{
+    background-color: rgb(196, 196, 196);
+}
+.coca{
+    background-color: aqua;
+    margin: 1px;
+}
